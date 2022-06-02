@@ -23,7 +23,7 @@ The only things needed to run sshcred is OpenSSL, libssh and a C++ compiler,
 I recommend using gcc/g++ on Unix-Based OS, MinGW on windows and clang on termux
 
 # Screenshots
-![Demo Image1](/sshcred.png)
+![Demo Image1](demo/sshcred.png)
 ![Demo Image2](demo/sshcred2.png)
 
 # Installing libssh - Linux & Termux
